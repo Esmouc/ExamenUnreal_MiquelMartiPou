@@ -1,0 +1,18 @@
+1. Creado Terrain, texturizado y con vegetación.
+2. Creados triggers de item recolectable en forma de pequeñas bolas
+flotantes. Zona de muerte con textura de oxido. Zona de confusion
+con textura gris.
+3. Iluminado el escenario con 3 tipos de luces. No se ha hecho ciclo
+día noche.
+4. Se ha creado un HUD con items recogidos, la vida del player
+y el tiempo en segundos transcurrido.
+5. Cuando baja la vida hay una animacion de cambio de color.
+Cuando aunmentan los items hay una animcaion de escala.
+6.Hay un sonido que se lanza cuando mueren los enemigos, y se cambia el pitch.
+7. En el level blueprint, con la R hace un restart game y con la L
+bajas la vida al player.
+8.Se ha creado IA con estados de Ir hacia el player, atacar y morir.
+9. Se puede poseer la vida con el boton izquierdo del raton apuntando hacia ellas.
+Las ias pueden poseer al player de la misma forma.
+10. Hay las dos esferas fisicas, con texturas distintas, que interactuan 
+con el player y los enemigos cada una distinto.
